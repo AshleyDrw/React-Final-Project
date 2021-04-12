@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+
+body {
+  background: url(/src/images/brick.jpg);
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+.img {
+  max-height: 20rem;
+}
+
+.merch-card {
+  background-color: whitesmoke;
+}
